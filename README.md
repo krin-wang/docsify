@@ -1,8 +1,8 @@
-# init-template
+# Docsify
 
-A template with some pre-defined hooks.
+A docsify site to host some articles.
 
-## Installation
+## Setup
 
 Install `pre-commit` to enable pre-commit hooks.
 
